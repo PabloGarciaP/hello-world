@@ -1,3 +1,3 @@
 # hello-world
 This is my first repo
-This is a changed to be commited
+This is a change to be commited
